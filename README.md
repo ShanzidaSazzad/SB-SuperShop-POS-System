@@ -1,6 +1,6 @@
 # SB-SuperShop-POS-System with HTML CSS Js PHP
 Cloud-based POS system with UI/UX design, sales, and inventory management features.
-Advance label Project, This is a Group Project and I'm The Team Leader who manages team members to help and design of this Project.
+Advance label Project, This is a Solo Project .
 
 
 #SB-SuperShop Figma Design Protype are given below.
